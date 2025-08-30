@@ -35,3 +35,12 @@ API-TESTING/
 ### Prerequisites
 - Postman installed on your machine
 - Internet connection for API calls
+
+
+## 🔧 How to Run Tests
+
+### Using Postman:
+1. Open the imported collection
+2. Select any request (Get Request, Post Request, etc.)
+3. Click "Send" to execute
+4. Verify response matches expected results from Excel file
